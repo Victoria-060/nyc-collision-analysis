@@ -1,4 +1,4 @@
-# nyc-collision-analysis
+# NYC-Collision-Analysis
 Capstone data analytics project exploring NYC collision data: data cleaning, visualization and actionable road safety insights.
 
 ## Overview:
@@ -89,6 +89,9 @@ While not explicitly broken down in the dashboard, research and patterns suggest
 
 This analysis highlights trends and risk factors in NYC traffic collisions, supporting the need for continued safety initiatives. These insights can guide policymakers, traffic authorities in implementing targeted safety measures such as awareness campaigns to help the public better understand and mitigate road safety risks, stricter enforcements in high risk locations and interventins during peak times.
 
-## Obasi Victoria – Data Analytics Capstone Project
+Obasi Victoria – Data Analytics Capstone Project
 
+### Connect with me: 
+[LinkedIn](https://www.linkedin.com/in/victoria-obasi)
+[Github](https://github.com/Victoria-060)
 
