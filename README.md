@@ -85,7 +85,7 @@ While not explicitly broken down in the dashboard, research and patterns suggest
 - Documentation (Report)
 - Insights & recommendations
 
-## Conclusion
+## Conclusion and Recommendation
 
 This analysis highlights trends and risk factors in NYC traffic collisions, supporting the need for continued safety initiatives. These insights can guide policymakers, traffic authorities in implementing targeted safety measures such as awareness campaigns to help the public better understand and mitigate road safety risks, stricter enforcements in high risk locations and interventins during peak times.
 
