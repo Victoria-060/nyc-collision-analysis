@@ -74,7 +74,7 @@ Driver Inattention/Distraction = 58.3K accidents. This ties closely with “Unsp
 Fatal Accidents:
 While not explicitly broken down in the dashboard, research and patterns suggest Driver Inattention and Failure to Yield Right of Way are leading causes of fatal collisions as well. These factors typically contribute disproportionately to severe outcomes.
 
-## Tools & Technologies
+## Tools
 
 - Power BI → Dashboard development & visualization
 - Power Query / Excel → Data cleaning & transformation
